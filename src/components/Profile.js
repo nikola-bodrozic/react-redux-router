@@ -6,14 +6,14 @@ function Profile() {
   let { id } = useParams();
   return (
     <div>
-      from URL id is {id}
+      from URL id is {id} 
       <button
         onClick={() => {
-          navigate("/about");
+          navigate("/bank");
         }}
       >
         {" "}
-        Change to about page
+        Change to bank page
       </button>
     </div>
   );

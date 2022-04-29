@@ -29,6 +29,8 @@ function Form() {
           onChange={handleChange}
         />
       </label>
+      <br />
+      <br />
       <label>
         Age{" "}
         <input
