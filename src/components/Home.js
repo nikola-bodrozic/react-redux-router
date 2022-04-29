@@ -41,6 +41,9 @@ function Home() {
           onChange={handleChange}
         />
       </label>
+      <br />
+      <br />
+      <input type="submit" value="Submit" />
     </form>
   );
 }

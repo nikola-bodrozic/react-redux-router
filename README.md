@@ -10,6 +10,6 @@ React with
 
 In the project directory, you can run:
 
-### `yarn `
+`yarn`
 
-### `yarn start`
+`yarn start`
